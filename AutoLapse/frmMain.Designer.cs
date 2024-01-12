@@ -296,7 +296,7 @@
             // speedSelect
             // 
             this.speedSelect.Location = new System.Drawing.Point(6, 38);
-            this.speedSelect.Maximum = 120;
+            this.speedSelect.Maximum = 1000;
             this.speedSelect.Minimum = 5;
             this.speedSelect.Name = "speedSelect";
             this.speedSelect.Size = new System.Drawing.Size(363, 45);
